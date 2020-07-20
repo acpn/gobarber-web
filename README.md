@@ -2,7 +2,7 @@
   <img width="500" height="363" src="./src/assets/font-page.png">
 </p>
 <h1 align=center>GoBarber</h1>
-<p align="center">This APP can be usefull when you've a barbershop and nedds to control the clients and employees scheduler's.</p>
+<p align="center">This APP can be usefull when you've a barbershop and needs to control the clients and employees scheduler's.</p>
 
 ## :computer: Tech:
 - React
